@@ -1,0 +1,8 @@
+day 4 
+
+
+python -m venv flask
+
+source flask/bin/activate
+
+deactivate 
